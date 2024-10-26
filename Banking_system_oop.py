@@ -63,18 +63,3 @@ def banking_system():
 # Run the banking system
 if __name__ == "__main__":
     banking_system()
-
-
-# Sample
-# Welcome to the Data Analysis Tool
-# Enter the size of the dataset: 10
-
-# Generated Dataset:
-# [12 85 46 23 89 67 30 56 19 91]
-
-# Analyzing dataset...
-# Mean: 51.8
-# Median: 51.0
-# Standard Deviation: 28.15367126288746
-# Min Value: 12
-# Max Value: 91
