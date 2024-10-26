@@ -87,3 +87,36 @@ if __name__ == "__main__":
         print("\nApp terminated.")
     except Exception as e:
         print(f"An unexpected error occurred: {e}")
+
+
+
+
+# Sample
+# To-Do List App
+# 1. Add a Task
+# 2. View All Tasks
+# 3. Delete a Task
+# 4. Exit
+# Enter your choice: 3
+# No tasks available.
+
+# To-Do List App
+# 1. Add a Task
+# 2. View All Tasks
+# 3. Delete a Task
+# 4. Exit
+# Enter your choice: 1
+# Enter the new task: Buy groceries
+# Task 'Buy groceries' added.
+
+# To-Do List App
+# 1. Add a Task
+# 2. View All Tasks
+# 3. Delete a Task
+# 4. Exit
+# Enter your choice: 3
+
+# Your To-Do List:
+# 1. Buy groceries
+# Enter the number of the task to delete: 2
+# Invalid task number.

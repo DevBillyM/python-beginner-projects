@@ -76,3 +76,26 @@ def to_do_list_app():
 # Run the to-do list app
 if __name__ == "__main__":
     to_do_list_app()
+
+
+
+
+# Sample 
+# To-Do List App
+# 1. Add a Task
+# 2. View All Tasks
+# 3. Delete a Task
+# 4. Exit
+# Enter your choice: 1
+# Enter the new task: Buy groceries
+# Task 'Buy groceries' added.
+
+# To-Do List App
+# 1. Add a Task
+# 2. View All Tasks
+# 3. Delete a Task
+# 4. Exit
+# Enter your choice: 2
+
+# Your To-Do List:
+# 1. Buy groceries
